@@ -3,3 +3,35 @@
 body {
     font-family: 'Audiowide', cursive;
 }
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.jumbotron {
+    margin-top: 0;
+    /*background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1280px-Star_Wars_Logo.svg.png') center center;
+    background-size: cover;*/
+    background-color: #1b1b25;
+    height: 200px;
+    text-align: center;
+}
+
+.jumbotron h3 {
+    color: white;
+    font-size: 5rem;
+}
+
+.form-control {
+    outline: none;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #efefef;
+    background-color: #fff;
+}
+
+.btn {
+    border-radius: 0;
+    background-color: #fff;
+    border: none;
+}
